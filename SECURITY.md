@@ -12,7 +12,7 @@ No publiques vulnerabilidades en Issues, Discussions, pull requests ni en otros 
 
 Envía el reporte de forma privada a:
 
-`[REEMPLAZAR_CON_CORREO_DE_SEGURIDAD]`
+`contacto.levelrise@gmail.com`
 
 Incluye, si es posible:
 
